@@ -1,0 +1,55 @@
+[2021-12-09 23:35:34.053] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-09 23:35:34.053] [remoteagent] [info] Extension host agent started.
+[2021-12-09 23:35:34.095] [remoteagent] [info] [127.0.0.1][00b5a0fe][ExtensionHostConnection] New connection established.
+[2021-12-09 23:35:34.109] [remoteagent] [info] [127.0.0.1][00b5a0fe][ExtensionHostConnection] <1539> Launched Extension Host Process.
+[2021-12-09 23:35:34.121] [remoteagent] [info] [127.0.0.1][783b4f17][ManagementConnection] New connection established.
+[2021-12-10 00:06:59.928] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-12-10 00:07:01.744] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /home/tkachvda/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.18.0
+[2021-12-10 00:07:01.877] [remoteagent] [info] Extracted extension to /home/tkachvda/.vscode-server/extensions/.c4a5f745-6218-491d-9bc6-a15425677afc: ms-azuretools.vscode-docker
+[2021-12-10 00:07:01.882] [remoteagent] [info] Renamed to /home/tkachvda/.vscode-server/extensions/ms-azuretools.vscode-docker-1.18.0
+[2021-12-10 00:07:01.884] [remoteagent] [info] Extracting completed. ms-azuretools.vscode-docker
+[2021-12-10 00:07:01.885] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2021-12-10 00:07:21.841] [remoteagent] [info] Uninstalling extension: ms-azuretools.vscode-docker
+[2021-12-10 00:07:22.150] [remoteagent] [info] Detected extension removed from another source ms-azuretools.vscode-docker
+[2021-12-10 00:07:22.204] [remoteagent] [info] Successfully uninstalled extension: ms-azuretools.vscode-docker
+[2021-12-10 00:07:50.413] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-12-10 00:07:50.846] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /home/tkachvda/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.18.0
+[2021-12-10 00:07:50.864] [remoteagent] [info] Removed the extension from uninstalled list: ms-azuretools.vscode-docker
+[2021-12-10 00:07:50.867] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2021-12-10 00:07:59.309] [remoteagent] [info] Uninstalling extension: ms-azuretools.vscode-docker
+[2021-12-10 00:07:59.619] [remoteagent] [info] Detected extension removed from another source ms-azuretools.vscode-docker
+[2021-12-10 00:07:59.669] [remoteagent] [info] Successfully uninstalled extension: ms-azuretools.vscode-docker
+[2021-12-10 00:08:10.601] [remoteagent] [info] [127.0.0.1][783b4f17][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-10 00:08:11.663] [remoteagent] [info] [127.0.0.1][00b5a0fe][ExtensionHostConnection] <1539> Extension Host Process exited with code: 0, signal: null.
+[2021-12-10 00:08:11.663] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-10 00:08:12.472] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-12-10 00:08:12.472] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-10 00:08:12.510] [remoteagent] [info] [127.0.0.1][b87d88ce][ManagementConnection] New connection established.
+[2021-12-10 00:08:12.572] [remoteagent] [info] [127.0.0.1][0df27fae][ExtensionHostConnection] New connection established.
+[2021-12-10 00:08:12.589] [remoteagent] [info] [127.0.0.1][0df27fae][ExtensionHostConnection] <7474> Launched Extension Host Process.
+[2021-12-10 00:08:52.968] [remoteagent] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-12-10 00:08:53.392] [remoteagent] [info] Downloaded extension: ms-azuretools.vscode-docker /home/tkachvda/.vscode-server/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.18.0
+[2021-12-10 00:08:53.418] [remoteagent] [info] Removed the extension from uninstalled list: ms-azuretools.vscode-docker
+[2021-12-10 00:08:53.420] [remoteagent] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2021-12-10 00:13:12.484] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-12-10 00:28:23.190] [remoteagent] [info] [127.0.0.1][b87d88ce][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-10 00:28:24.244] [remoteagent] [info] [127.0.0.1][0df27fae][ExtensionHostConnection] <7474> Extension Host Process exited with code: 0, signal: null.
+[2021-12-10 00:28:24.245] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-10 00:28:28.582] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-12-10 00:28:28.582] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-10 00:28:28.637] [remoteagent] [info] [127.0.0.1][2b72c46f][ManagementConnection] New connection established.
+[2021-12-10 00:28:28.715] [remoteagent] [info] [127.0.0.1][61f54f61][ExtensionHostConnection] New connection established.
+[2021-12-10 00:28:28.726] [remoteagent] [info] [127.0.0.1][61f54f61][ExtensionHostConnection] <17891> Launched Extension Host Process.
+[2021-12-10 00:30:17.729] [remoteagent] [info] [127.0.0.1][2b72c46f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-10 00:30:18.758] [remoteagent] [info] [127.0.0.1][61f54f61][ExtensionHostConnection] <17891> Extension Host Process exited with code: 0, signal: null.
+[2021-12-10 00:30:18.758] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-10 00:30:18.758] [remoteagent] [info] Last EH closed, waiting before shutting down

@@ -1,0 +1,34 @@
+[2021-12-12 22:36:11.974] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-12-12 22:36:11.974] [remoteagent] [info] Extension host agent started.
+[2021-12-12 22:36:12.469] [remoteagent] [info] [127.0.0.1][d96f2e25][ManagementConnection] New connection established.
+[2021-12-12 22:36:12.494] [remoteagent] [info] [127.0.0.1][1ec54564][ExtensionHostConnection] New connection established.
+[2021-12-12 22:36:12.518] [remoteagent] [info] [127.0.0.1][1ec54564][ExtensionHostConnection] <13951> Launched Extension Host Process.
+[2021-12-12 22:36:15.311] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-ru
+[2021-12-12 22:36:16.882] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ru /home/tkachvda/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-ru-1.63.3
+[2021-12-12 22:36:17.173] [remoteagent] [info] Extracted extension to /home/tkachvda/.vscode-server/extensions/.ac49d202-349a-43bc-a7a7-82cbfea51860: ms-ceintl.vscode-language-pack-ru
+[2021-12-12 22:36:17.183] [remoteagent] [info] Renamed to /home/tkachvda/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ru-1.63.3
+[2021-12-12 22:36:17.184] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-ru
+[2021-12-12 22:36:17.184] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+[2021-12-12 22:36:17.253] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru
+[2021-12-12 22:36:18.463] [remoteagent] [info] [127.0.0.1][d96f2e25][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-12 22:36:18.476] [remoteagent] [info] [127.0.0.1][1ec54564][ExtensionHostConnection] <13951> Extension Host Process exited with code: 0, signal: null.
+[2021-12-12 22:36:18.476] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-12 22:36:26.987] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-12-12 22:36:26.987] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-12 22:36:27.077] [remoteagent] [info] [127.0.0.1][7b0cbbb8][ManagementConnection] New connection established.
+[2021-12-12 22:36:27.104] [remoteagent] [info] [127.0.0.1][4b8b5ee7][ExtensionHostConnection] New connection established.
+[2021-12-12 22:36:27.112] [remoteagent] [info] [127.0.0.1][4b8b5ee7][ExtensionHostConnection] <14090> Launched Extension Host Process.
+[2021-12-12 22:36:51.201] [remoteagent] [info] [127.0.0.1][7b0cbbb8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-12-12 22:36:51.217] [remoteagent] [info] [127.0.0.1][4b8b5ee7][ExtensionHostConnection] <14090> Extension Host Process exited with code: 0, signal: null.
+[2021-12-12 22:36:51.217] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-12-12 22:36:51.217] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-12-12 22:41:51.218] [remoteagent] [info] Last EH closed, shutting down

@@ -1,0 +1,2 @@
+The Docker extension will try to connect to 'unix:///var/run/docker.sock', via context 'default'.
+Error: connect EACCES /var/run/docker.sock

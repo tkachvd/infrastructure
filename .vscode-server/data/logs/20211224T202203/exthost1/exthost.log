@@ -1,0 +1,11 @@
+[2021-12-24 20:22:05.297] [exthost] [info] Extension host with pid 1756 started
+[2021-12-24 20:22:05.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-24 20:22:05.388] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-24 20:22:05.468] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2021-12-24 20:22:05.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-24 20:22:05.601] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 20:22:05.618] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-24 20:22:05.622] [exthost] [info] Eager extensions activated
+[2021-12-24 20:22:10.970] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker, startup: false, activationEvent: 'onView:dockerContainers'
+[2021-12-25 00:07:14.668] [exthost] [info] extension host terminating: renderer disconnected for too long (2)
+[2021-12-25 00:07:14.725] [exthost] [info] Extension host with pid 1756 exiting with code 0
